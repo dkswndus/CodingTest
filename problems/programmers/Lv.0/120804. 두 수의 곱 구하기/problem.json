@@ -1,0 +1,29 @@
+{
+  "source": "PROGRAMMERS",
+  "id": "120804",
+  "title": "두 수의 곱 구하기",
+  "description": "<p>정수 <code>num1</code>, <code>num2</code>가 매개변수 주어집니다. <code>num1</code>과 <code>num2</code>를 곱한 값을 return 하도록 solution 함수를 완성해주세요.</p>\n\n<hr>\n\n<h4>제한사항</h4>\n\n<ul>\n<li>0 ≤ <code>num1</code> ≤ 100</li>\n<li>0 ≤ <code>num2</code> ≤ 100</li>\n</ul>\n\n<hr>\n\n<h4>입출력 예</h4>\n<table class=\"table\">\n        <thead><tr>\n<th>num1</th>\n<th>num2</th>\n<th>result</th>\n</tr>\n</thead>\n        <tbody><tr>\n<td>3</td>\n<td>4</td>\n<td>12</td>\n</tr>\n<tr>\n<td>27</td>\n<td>19</td>\n<td>513</td>\n</tr>\n</tbody>\n      </table>\n<hr>\n\n<h4>입출력 예 설명</h4>\n\n<p>입출력 예 #1</p>\n\n<ul>\n<li><code>num1</code>이 3, <code>num2</code>가 4이므로 3 * 4 = 12를 return합니다.</li>\n</ul>\n\n<p>입출력 예 #2</p>\n\n<ul>\n<li><code>num1</code>이 27, <code>num2</code>가 19이므로 27 * 19 = 513을 return합니다.</li>\n</ul>",
+  "testCases": [
+    {
+      "input": "3\n4",
+      "expectedOutput": "12",
+      "actualOutput": "",
+      "passed": null
+    },
+    {
+      "input": "27\n19",
+      "expectedOutput": "513",
+      "actualOutput": "",
+      "passed": null
+    }
+  ],
+  "timeLimit": "",
+  "memoryLimit": "",
+  "difficulty": "Lv.0",
+  "parameterNames": [
+    "num1",
+    "num2"
+  ],
+  "initialCode": "",
+  "contestProbId": ""
+}
